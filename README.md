@@ -142,3 +142,5 @@ Q23.Which country has the greatest number of guests?
 8.Southern Europe (group countries) is the best contributor.
 
 So, at the end of our analysis we can say things like business partners, customer satisfaction, choices available for the customers, services provided by hotels play a major role in hotel’s establishment and sustainability.
+
+Therefore for a good start the things appeared, finally after this entire analysis, should be taken into consideration.

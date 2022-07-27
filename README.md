@@ -121,7 +121,7 @@ Q22. Which room type is in most demand and which room type generates the highest
 
 Q23.Which country has the greatest number of guests?
 
-### Now finally, concluded as;
+### Now briefly, concluded as;
 
 1.City Hotels are more popular and generate more revenue compared to Resort Hotels. 
 

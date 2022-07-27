@@ -2,7 +2,7 @@
 
 #### here two colabs are present one is mine (indivisually, in which i have done my part) and other is of my team including me, both are of same project i.e. 'hotel booking analysis'.
 
-## let's have a look, what i have done here.
+## let's have a look, what we have done here.
 
 Here the data-set given, was containing 119390 entries (rows) for two types of respective hotels for three years (2015-17), and each entry containing 32 categorical features which were especially helpful during complete analysis.
 ## Data-set
@@ -75,7 +75,7 @@ C=Complimentary coffee; D=Complimentary evening cocktail; E=European style hotel
 
 here the EDA was done by cleaning data, like replacing null values with satisfactory values, deleting duplicate rows, changing data-set to relevent data type which were not in relevent form.
 
-### Now finally tried to extract maximum possible legal questions from given data-set and tried to solve them to extract pattern and hidden analysis behind it, the questions are like,
+### Now finally we tried to extract maximum possible legal questions from given data-set and tried to solve them to extract pattern and hidden analysis behind it, the questions are like,
 
 Q1. Which hotel type is preferred the most?
 
@@ -141,4 +141,4 @@ Q23.Which country has the greatest number of guests?
 
 8.Southern Europe (group countries) is the best contributor.
 
-Now at the end of our analysis we can say things like business partners, customer satisfaction, choices available for the customers, services provided by hotels play a major role in hotel’s establishment and sustainability.
+So, at the end of our analysis we can say things like business partners, customer satisfaction, choices available for the customers, services provided by hotels play a major role in hotel’s establishment and sustainability.

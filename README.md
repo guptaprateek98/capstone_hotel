@@ -5,10 +5,15 @@
 Here the data-set given, was containing 119390 entries (rows) for two types of respective hotels for three years (2015-17), and each entry containing 32 categorical features which were especially helpful during complete analysis.
 ## Data-set
 data-set given (contains the columns) can be discribed as:
+
 'hotel': hotels were of two types city and resort hotel
+
 'is_canceled': binary valued data-set gives discription of whether room cancelled or not
+
 'lead_time': gives the discription of the time duration between booking date and check-in date
+
 'arrival_date_year': discribes the year of arrival of customer
+
 'arrival_date_month': discribes the month of arrival of customer
 'arrival_date_week_number':discribes the no. of week in that year
 'arrival_date_day_of_month':discribes the date of arrival of customer

@@ -1,6 +1,6 @@
 # capstone_hotel
 
-## let's understand what i have done here.
+## let's have a look, what i have done here.
 
 Here the data-set given, was containing 119390 entries (rows) for two types of respective hotels for three years (2015-17), and each entry containing 32 categorical features which are especially helpful during complete analysis.
 ## Data-set

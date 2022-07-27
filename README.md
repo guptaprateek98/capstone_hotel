@@ -73,7 +73,7 @@ C=Complimentary coffee; D=Complimentary evening cocktail; E=European style hotel
 
 here the EDA was done by cleaning data, like replacing null values with satisfactory values, deleting duplicate rows, changing data-set to relevent data type which were not in relevent form.
 
-### Now finally tried to extract maximum possible legal questions from given data-set and tried to solve them to extract pattern and hidden analysis behind it, the question are like,
+### Now finally tried to extract maximum possible legal questions from given data-set and tried to solve them to extract pattern and hidden analysis behind it, the questions are like,
 
 Q1. Which hotel type is preferred the most?
 

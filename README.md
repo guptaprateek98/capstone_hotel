@@ -1,5 +1,7 @@
 # capstone_hotel
 
+#### here two colabs are present one is of mine (indivisually, in which i have done my part) and other is of my team, which is of hotel booking analysis.
+
 ## let's have a look, what i have done here.
 
 Here the data-set given, was containing 119390 entries (rows) for two types of respective hotels for three years (2015-17), and each entry containing 32 categorical features which were especially helpful during complete analysis.

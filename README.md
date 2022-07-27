@@ -4,7 +4,7 @@
 
 Here the data-set given, was containing 119390 entries (rows) for two types of respective hotels for three years (2015-17), and each entry containing 32 categorical features which were especially helpful during complete analysis.
 ## Data-set
-data-set given (contains the columns) can be discribed as:
+#### data-set given (contains the columns) can be discribed as:
 
 'hotel': hotels were of two types city and resort hotel
 

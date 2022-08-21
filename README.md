@@ -1,6 +1,6 @@
 # capstone_hotel
 
-#### _here two colabs are present one is mine (indivisually, in which i have done my part) and other is of my team including me, both are of same project i.e. 'hotel booking analysis'._
+#### _here two colabs are present one is mine (indivisually, in which i have done my part) and other is of my team's including me, after completing indivisually we have combined it finally as final project._
 
 ## let's have a look, what we have done here.
 

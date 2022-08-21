@@ -1,6 +1,5 @@
 # capstone_hotel
-diff
-@@jihiyhbhh@@
+[diff]@@jihiyhbhh@@
 #### here two colabs are present one is mine (indivisually, in which i have done my part) and other is of my team including me, both are of same project i.e. 'hotel booking analysis'.
 
 ## let's have a look, what we have done here.
